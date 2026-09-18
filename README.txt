@@ -19,3 +19,12 @@ const projects=[
 {name:'Hexagon Ceiling',cat:'Ceiling Design',img:'hexagon-ceiling.jpg',group:'ceiling'},
 {name:'LED Strip Ceiling',cat:'Ceiling Design',img:'led-strip-ceiling.jpg',group:'ceiling'}
 ];
+.logo{
+  width:58px;
+  height:58px;
+  flex:0 0 58px;
+  margin-right:11px;
+  object-fit:contain;
+  border-radius:8px;
+  background:#fff;
+}
